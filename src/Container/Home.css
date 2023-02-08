@@ -1,0 +1,66 @@
+.buttons{
+    width: 1200px;
+    height: 800px;
+    display: block;
+    margin:auto;
+    }
+.button-1{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+    }
+    .button-1-1{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-left: 18px;
+    margin-top: 18px;
+    }
+    .button-1-1 a{
+        font-size: 30px;
+    }
+    .button-1-2{
+    width: 250px;
+    height: 250px;
+    background-color: black;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-right: 18px;
+    margin-top: 18px;
+    }
+    .button-1-2 img{
+          width: 100%;
+          height: 100%;
+    }
+    .button-1-3{
+        width: 250px;
+    height: 250px;
+    background-color: greenyellow;
+    display: block;
+    justify-content: center;
+    align-items: bottom;
+    margin-top: 170px;
+    margin-left: 18px;
+    }
+    .button-1-3 a {
+          font-size:30px;
+    }
+    .button-1-4{
+        width: 250px;
+        height: 250px;
+        background-color: blue;
+        display: block;
+        margin-top: 170px;
+        margin-right: 18px;
+        justify-content: center;
+        align-items: bottom;
+        }
+        .button-1-4 a{
+            font-size: 30px;
+        }
